@@ -10,12 +10,6 @@ This repository is a few well-written, step-by-step guides for re-creating our f
 
 #### Build your own `Command-Line Tool`
 
-#### Build your own `Git`
-
-#### Build your own `Network Stack`
-
-#### Build your own `Physics Engine`
-
 #### Build your own `Programming Language`
 
 #### Build your own `Regex Engine`
